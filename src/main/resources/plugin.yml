@@ -1,7 +1,7 @@
 name: GameModeClassic
 version: '${project.version}'
 main: jp.mrik.gamemodeclassic.GameModeClassic
-api-version: 1.16
+api-version: 1.20
 authors: [ Mr_IK ]
 description: GameModeClassic
 commands:
